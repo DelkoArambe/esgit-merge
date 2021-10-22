@@ -23,6 +23,8 @@ namespace EsGit2210
         public MainWindow()
         {
             InitializeComponent();
+
+            MessageBox.Show("Bababooey");
         }
     }
 }
