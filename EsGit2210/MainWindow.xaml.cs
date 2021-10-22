@@ -24,7 +24,7 @@ namespace EsGit2210
         {
             InitializeComponent();
 
-            MessageBox.Show("Bababooey");
+            MessageBox.Show("Babagee");
         }
     }
 }
